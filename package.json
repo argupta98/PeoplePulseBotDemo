@@ -1,0 +1,23 @@
+{
+  "name": "peoplepulsebotdemo",
+  "version": "1.0.0",
+  "description": "A chat bot proof of concept for PeoplePulse Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PeoplePulseBot"
+  },
+  "keywords": [
+    "PeoplePulse"
+  ],
+  "author": "Arjun Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "excel4node": "^1.3.6",
+    "restify": "^7.1.1"
+  }
+}

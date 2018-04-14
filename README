@@ -1,0 +1,22 @@
+This repository is for the PeoplePulseBotDemo 
+(an assistant to converse with employees over messaging apps to get satisfaction data)
+
+Instructions for Use:
+To install dependencies, in the root directory run:
+
+	npm install core-js
+	npm install restify
+	npm install botbuilder
+	npm install fs
+
+
+To run the application call:
+
+	node app.js
+
+To interact with the bot download the Bot Framework Emulator at: 
+
+	https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v3.5.35
+
+	Download the botframework-emulator-Setup-3.5.35.exe file. 
+	

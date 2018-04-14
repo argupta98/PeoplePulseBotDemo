@@ -1,0 +1,4 @@
+#Do not include the node modules directory
+node_modules
+nodemodules\
+*.mp4
